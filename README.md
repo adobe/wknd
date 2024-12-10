@@ -1,5 +1,4 @@
-# Your Project's Title...
-Your project's description...
+Moved to https://github.com/hlxsites/wknd
 
 ## Environments
 - Preview: https://main--wknd--hlxsites.hlx.page/
